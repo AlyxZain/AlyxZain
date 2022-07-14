@@ -20,12 +20,12 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/AlyxZain)](https://github.com/AlyxZain)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/AlyxZain)](https://github.com/AlyxZain)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/AlyxZain)](https://github.com/AlyxZain)
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/AlyxZain)](https://github.com/AlyxZain)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/AlyxZain)](https://github.com/AlyxZain)
 
  ## :books: Learning:
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/AlyxZain)](https://github.com/AlyxZain)
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/AlyxZain)](https://github.com/AlyxZain)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/AlyxZain)](https://github.com/AlyxZain)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/AlyxZain)](https://github.com/AlyxZain)
 
